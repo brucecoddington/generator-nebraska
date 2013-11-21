@@ -1,0 +1,25 @@
+.container {
+	padding: 5px;
+	background-color: yellow;
+	min-height: 400px;
+	position: relative;
+}
+
+.saying {
+	padding: 10px;
+	font-size: 16px;
+}
+
+.logo-top {
+	position: absolute;
+	right: 40px;
+	bottom: 90px;
+	font-size: 40px;
+}
+
+.logo-bottom {
+	position: absolute;
+	right: 40px;
+	bottom: 40px;
+	font-size: 40px;
+}
